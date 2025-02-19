@@ -1,0 +1,1 @@
+A network switch is networking hardware that 
