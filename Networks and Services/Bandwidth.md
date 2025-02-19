@@ -1,0 +1,1 @@
+The bandwidth is the maximum
