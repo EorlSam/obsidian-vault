@@ -8,4 +8,4 @@ A computer network is a set of interconnected hardware devices that communicate 
 - Router – A device that directs data between different networks by determining the best path.
 - Links – The physical or wireless connections that transmit data between nodes.
 - Application – Software running on networked devices that communicate through the network to exchange data.
-![](/attachments)
+![](attachments/computer-network-components.png)
