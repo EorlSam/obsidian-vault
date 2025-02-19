@@ -1,6 +1,5 @@
-## Definition
-A network switch is networking hardware that connects devices on a computer network by using packet switching and MAC addresses to receive and forward data to the destination device.
-
-It has some key benefits over other forms of data transmission:
-- Efficiency: if the switch contains the destination MAC address it can send the data packet only to the intended device, in contrast, other devices like hubs send the data frame to all devices in the network.
-- MAC Address Learning: every time that a switch receives a data frame, it saves the source and destination MAC address in it's memory next to the information on the physical port linked to the specific address.
+## Definition:
+A network switch is a **networking hardware device** that connects devices on a local area network (LAN) by using **packet switching** and **MAC addresses** to receive and forward data to the appropriate destination device.
+## Key Benefits:
+- **Efficiency:** A switch only forwards data to the specific device that matches the destination MAC address, reducing network congestion. In contrast, other devices like hubs send the data to all devices, even those that don't need it, which can waste bandwidth and slow down the network.
+- **MAC Address Learning:** When a switch receives a data frame, it learns the **source MAC address** and the **port** the data arrived on. It then stores this information in its **MAC address table (CAM table)**. This helps the switch efficiently direct future traffic to the correct port by associating devices' MAC addresses with the physical ports they are connected to.
