@@ -1,1 +1,1 @@
-A computer netw
+A computer network is a set of hardware devices interconnected by a transmission mean
