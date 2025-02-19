@@ -1,1 +1,2 @@
 The bandwidth is the range of frequencies available for data transmission within a communication channel. It's measured in Hertz (Hz) and represents the difference between the highest and lowest frequencies that a channel can support.
+
