@@ -1,1 +1,1 @@
-A computer network is a set of hardware devices interconnected by a transmission mean
+A **computer network** is a set of interconnected hardware devices that communicate with each other through a transmission medium. It's purpose is to share information and services among all connected devices.
