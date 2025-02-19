@@ -1,1 +1,1 @@
-The bandwidth is the maximum amount of data that can be transmitted over a network connection in a given amount of time, it's measured in bit'
+The bandwidth is the maximum amount of data that can be transmitted over a network connection in a given amount of time, it's measured in bits per second, kilobits per second, megabits per second or gigabits per second.
