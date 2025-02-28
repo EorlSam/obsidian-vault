@@ -1,2 +1,2 @@
 ## Definition
-A **network router** 
+A **network router** is
