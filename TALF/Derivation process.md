@@ -1,6 +1,9 @@
 Example:
-- S => 0S1
-- S => 01
+- Terminals: {0, 1}
+- Productions:
+	- S => 0S1
+	- S => 01
+- Start symbol: S
 
 A derivation process to achieve 0⁵1⁵ would be:
 
