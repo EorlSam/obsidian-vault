@@ -1,2 +1,2 @@
 ### Definition
-Set of regular 
+Set of regular expressions `(R)`
