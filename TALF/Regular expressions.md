@@ -1,3 +1,3 @@
 ### Definition
 Set of regular expressions `(R)`
-Given $\sum_R = \sum, \un, {), (, ∅, +,∗ }$
+Given $\sum_R = \sum, \cup, {), (, ∅, +,∗ }$
