@@ -1,3 +1,4 @@
+
 A **formal grammar** is a mathematical system used to describe the syntax of a language. It consists of four components:
 
 1. **Non-terminals (N)** – Symbols that can be replaced or expanded (e.g., S, A, B).
@@ -6,3 +7,16 @@ A **formal grammar** is a mathematical system used to describe the syntax of a l
 4. **Start symbol (S)** – A special non-terminal from which derivations begin.
 
 A formal grammar generates a **formal language**, which can be classified in the **Chomsky hierarchy** based on the restrictions placed on production rules.
+
+### Derivation process
+
+Example:
+- Non-terminals: `{S}`
+- Terminals: `{0, 1}`
+- Productions:
+	- `S => 0S1`
+	- `S => 01`
+- Start symbol: `S`
+- 
+A derivation process to achieve 0⁵1⁵ would be:
+- `S => 0S1 => 00S11 => 000S111 => 0000S1111 => 0000011111`
