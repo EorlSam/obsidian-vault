@@ -1,3 +1,4 @@
+### Definition
 
 A **formal grammar** is a mathematical system used to describe the syntax of a language. It consists of four components:
 
