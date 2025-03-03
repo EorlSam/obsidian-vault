@@ -1,3 +1,3 @@
 ### Definition
 Set of regular expressions `(R)`
-Given $\sigmaR = Σ ∪ {), (, ∅, +,∗ }$
+Given $\sum_R = \sum, \un, {), (, ∅, +,∗ }$
