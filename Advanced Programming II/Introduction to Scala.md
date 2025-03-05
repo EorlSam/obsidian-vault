@@ -9,6 +9,6 @@
 
 ### Operators
 - Lists:
-	- `::` joins an element to the beggining of a list `val listaConPrepend = 0 :: lista`
-	- `:+` joins an element to the end of the list
-	- `++` joins 2 lists
+	- `::` joins an element to the beggining of a list `val newList = x :: list`
+	- `:+` joins an element to the end of the list `val newList = list :+ x`
+	- `++` joins 2 lists `val newList = firstList ++ secondList`
