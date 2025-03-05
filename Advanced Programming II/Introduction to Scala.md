@@ -7,5 +7,8 @@
 
 * Super-class constructors can be called with `extends` (like in C#)
 
-### Traits
-- 
+### Operators
+- Lists:
+	- `::`
+	- `:+`
+	- `++` 
