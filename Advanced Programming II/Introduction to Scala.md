@@ -8,7 +8,7 @@
 * Super-class constructors can be called with `extends` (like in C#)
 
 ### Operators
-- Lists:
-	- `::` joins an element to the beggining of a list `val newList = x :: list`
-	- `:+` joins an element to the end of the list `val newList = list :+ x`
-	- `++` joins 2 lists `val newList = firstList ++ secondList`
+- **Lists**:
+	- **`::`** joins an element to the **beginning** of a list *`val newList = x :: list`*
+	- **`:+`** joins an element to the **end** of the list *`val newList = list :+ x`*
+	- **`++`** joins **two** lists *`val newList = firstList ++ secondList`*
